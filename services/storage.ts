@@ -29,7 +29,7 @@ export const loadGames = async (): Promise<BoardGame[]> => {
 
     // 3. Load initial data from JSON file if no data exists
     try {
-      const response = await fetch('/boardgames_backup_2025-12-16 (2).json');
+      const response = await fetch('/boardgames_backup_2025-12-16%20(2).json');
       if (response.ok) {
         const initialData = await response.json();
         // Save to IndexedDB for future use
