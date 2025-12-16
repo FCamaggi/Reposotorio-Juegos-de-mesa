@@ -1,0 +1,872 @@
+[
+  {
+    "id": "ae83f527-4b31-405d-a21f-c39c0e9c996e",
+    "name": "Trivial Pursuit - Edición Familiar",
+    "description": "Juego de preguntas y respuestas diseñado para toda la familia, con tarjetas de preguntas separadas para niños y adultos, permitiendo un desafío equilibrado y divertido. Los jugadores compiten por coleccionar quesitos de diferentes categorías.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "45-90 min",
+    "minAge": 8,
+    "mechanics": [
+      "Preguntas y respuestas",
+      "Tirar dados",
+      "Colección de sets",
+      "Juego por equipos"
+    ],
+    "notes": "",
+    "imageUrl": "https://acdn.mitiendanube.com/stores/001/050/305/products/trivial-pursuit11-2ab48d0669e7ff0db515871501592676-1024-1024.png",
+    "emoji": "🎲",
+    "ownedExpansions": [],
+    "addedAt": 1765848858079
+  },
+  {
+    "id": "5a1e7ade-6239-4362-8417-6472d93b5f1b",
+    "name": "Monopoly - Malos perdedores",
+    "description": "Edición de Monopoly donde perder te ayuda a ganar. Los jugadores obtienen \"monedas de mal perdedor\" por acciones frustrantes y pueden convertirse en Mr. Monopoly para cobrar en vez de pagar, dándole la vuelta al juego.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "60-180 min",
+    "minAge": 8,
+    "mechanics": [
+      "Recompensa por acciones negativas",
+      "Habilidad de jugador variable",
+      "Lanzamiento de dados",
+      "Comercio de propiedades"
+    ],
+    "notes": "",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_880132-MLA99959033129_112025-O.webp",
+    "emoji": "😈",
+    "ownedExpansions": [],
+    "addedAt": 1765848756603
+  },
+  {
+    "id": "f1ea5854-f62f-4c22-a769-7546ee0fedb6",
+    "name": "Twister",
+    "description": "Twister es un juego de habilidad física donde los jugadores se retuercen en una alfombra con círculos de colores, siguiendo las instrucciones de una ruleta que indica qué mano o pie colocar en cada color. El objetivo es ser el último jugador en pie sin caerse.",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playtime": "15-30 min",
+    "minAge": 6,
+    "mechanics": [
+      "Destreza física",
+      "Eliminación de jugadores",
+      "Seguir instrucciones"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.updown.cl/wp-content/uploads/2025/10/original-57.jpeg",
+    "emoji": "🤸",
+    "ownedExpansions": [],
+    "addedAt": 1765848683669
+  },
+  {
+    "id": "109c24f6-d432-404e-bbc7-323c87ca958e",
+    "name": "¿Qué dijooo? - Hasbro",
+    "description": "Un divertido juego de mesa de Hasbro donde los jugadores usan una boquilla que les impide cerrar la boca, intentando decir frases para que sus compañeros de equipo las adivinen, garantizando risas.",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "playtime": "30-60 min (Estimado)",
+    "minAge": 16,
+    "mechanics": [
+      "Comunicación restringida",
+      "Deducción",
+      "Formación de equipos",
+      "Adivinanzas"
+    ],
+    "notes": "",
+    "imageUrl": "https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/630509540440.jpg?scale=500&qlty=75",
+    "emoji": "🤣",
+    "ownedExpansions": [],
+    "addedAt": 1765848653179
+  },
+  {
+    "id": "353cfd3a-cf9f-4285-af27-6ce9e1a679a5",
+    "name": "Lapsus",
+    "description": "Lapsus es un party game cooperativo de 2 a 8 jugadores donde se crean palabras con sílabas para que un intérprete las relacione con temas secretos. Pone a prueba tu ingenio y comunicación en modo cooperativo o competitivo.",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playtime": "20 min",
+    "minAge": 8,
+    "mechanics": [
+      "Juego cooperativo",
+      "Party game",
+      "Juego de palabras",
+      "Deducción"
+    ],
+    "notes": "",
+    "imageUrl": "https://piedrabruja.cl/cdn/shop/files/1266.webp?v=1748551155",
+    "emoji": "💬",
+    "ownedExpansions": [],
+    "addedAt": 1765848604482
+  },
+  {
+    "id": "77a2a004-230b-4a24-b941-b9cc180dc81c",
+    "name": "PentaGo",
+    "description": "Pentago es un juego de estrategia abstracto para dos jugadores en un tablero de 6x6 con cuatro cuadrantes rotatorios. El objetivo es lograr cinco canicas en línea (horizontal, vertical o diagonal) antes que el oponente, rotando un cuadrante en cada turno.",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "playtime": "5-15 min",
+    "minAge": 6,
+    "mechanics": [
+      "Patrón de construcción",
+      "Rotación de tablero",
+      "Estrategia abstracta",
+      "Cinco en raya"
+    ],
+    "notes": "",
+    "imageUrl": "https://playsmart.cl/wp-content/uploads/2021/04/Pentago-juego-multijugador-Pentago-Game-multijugador-para-2-3-o-4-con-reglas-en-varios.jpg",
+    "emoji": "🎲",
+    "ownedExpansions": [],
+    "addedAt": 1765848564100
+  },
+  {
+    "id": "371b88b3-2131-463a-ad10-20fecf122fd7",
+    "name": "Cranium",
+    "description": "Cranium es un divertido juego de mesa en equipo que pone a prueba tus talentos en 4 categorías: Gato Creativo (dibujo y escultura), Dato Nauta (conocimientos), Star Estelar (actuación y tarareo) y Lombri Letras (palabras).",
+    "minPlayers": 4,
+    "maxPlayers": 16,
+    "playtime": "30-90 min",
+    "minAge": 16,
+    "mechanics": [
+      "Dibujo",
+      "Escultura",
+      "Mímica",
+      "Conocimientos generales"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.hasbro.com/common/productimages/es_CO/824896ab19b9f369106df80ad3aa1be8/D6580C7050569047F557A0F00CBC0AD9.png",
+    "emoji": "🧠",
+    "ownedExpansions": [],
+    "addedAt": 1765848505672
+  },
+  {
+    "id": "e65a6a1d-0e05-4091-b13a-699f7bb34ffe",
+    "name": "Rummy & Burako",
+    "description": "Juego clásico de mesa que combina Rummy y Burako, ideal para jugar en familia o con amigos. Consiste en formar 'piernas' y 'escaleras' con fichas numeradas.",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playtime": "45-90 min",
+    "minAge": 10,
+    "mechanics": [
+      "Set Collection",
+      "Pattern Building",
+      "Tile Placement",
+      "Hand Management"
+    ],
+    "notes": "",
+    "imageUrl": "https://multijuegosmendoza.com/wp-content/uploads/2020/04/rummy.jpg",
+    "emoji": "🎲",
+    "ownedExpansions": [],
+    "addedAt": 1765848395337
+  },
+  {
+    "id": "dcdf83d8-8767-4a5e-8e9e-148a09032356",
+    "name": "Destreza",
+    "description": "Juego de mesa de Hasbro donde los jugadores deben colocar 25 formas geométricas en los agujeros correspondientes antes de que el tiempo se agote. Pone a prueba la destreza, el enfoque y el reconocimiento de formas.",
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "playtime": "Variable y rápido",
+    "minAge": 5,
+    "mechanics": [
+      "Habilidad/Destreza",
+      "Reconocimiento de patrones",
+      "Contrarreloj"
+    ],
+    "notes": "",
+    "imageUrl": "https://http2.mlstatic.com/D_Q_NP_775375-MLA99937091851_112025-O.webp",
+    "emoji": "⏱️",
+    "ownedExpansions": [],
+    "addedAt": 1765848353146
+  },
+  {
+    "id": "bb700af7-347f-452c-934f-b67f771c0e09",
+    "name": "RapiMente",
+    "description": "Juego de mesa de agilidad mental y observación donde los jugadores compiten por ser los más rápidos en apilar vasos de colores para replicar patrones en cartas, tocando un timbre para ganar.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "No especificado",
+    "minAge": 4,
+    "mechanics": [
+      "Observación",
+      "Agilidad mental",
+      "Reconocimiento de patrones",
+      "Velocidad"
+    ],
+    "notes": "",
+    "imageUrl": "https://nacional.cl/cdn/shop/files/71450012-1_74f47850-581e-4b41-bbff-51613f9417dd.jpg?v=1753471638",
+    "emoji": "🔔",
+    "ownedExpansions": [],
+    "addedAt": 1765848332970
+  },
+  {
+    "id": "b3d4ae4d-e524-40b5-9ae2-006ef3047793",
+    "name": "4 en Línea",
+    "description": "Juego de estrategia abstracto para dos jugadores donde el objetivo es alinear cuatro fichas del mismo color (horizontal, vertical o diagonalmente) en un tablero vertical.",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "playtime": "5-15 min",
+    "minAge": 6,
+    "mechanics": [
+      "Estrategia Abstracta",
+      "Colocación de Patrones",
+      "Colocación de Piezas"
+    ],
+    "notes": "",
+    "imageUrl": "https://toyng.cl/cdn/shop/files/aa-5200-vl-producto-ca14534b-fef7-4e2f-9898-220bede34d8f.jpg?v=1753308831&width=2040",
+    "emoji": "🔴",
+    "ownedExpansions": [],
+    "addedAt": 1765848257864
+  },
+  {
+    "id": "be5f981e-2875-4fd0-8000-7fc34572f55b",
+    "name": "Ojo de lince Go!",
+    "description": "Ojo de Lince Go! es un juego de mesa compacto de observación rápida. Los jugadores deben encontrar objetos en el tablero o cartas, desarrollando agudeza visual y concentración. Ideal para todas las edades.",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playtime": "5-15 min",
+    "minAge": 4,
+    "mechanics": [
+      "Observación",
+      "Rapidez",
+      "Agilidad visual",
+      "Concentración"
+    ],
+    "notes": "",
+    "imageUrl": "https://dojiw2m9tvv09.cloudfront.net/68793/product/ojo-de-lince-travel-215264774.jpg",
+    "emoji": "🔎",
+    "ownedExpansions": [],
+    "addedAt": 1765848187276
+  },
+  {
+    "id": "8ae9ee81-b04b-4e5f-8c7c-4d1f3801397f",
+    "name": "Taboo",
+    "description": "Taboo es un juego de mesa de palabras por equipos donde el objetivo es que un jugador haga que sus compañeros adivinen una palabra clave sin usar palabras \"tabú\" relacionadas. Se juega contra un reloj y con un zumbador para penalizar las palabras prohibidas.",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "playtime": "20-60 min",
+    "minAge": 13,
+    "mechanics": [
+      "Adivinación de palabras",
+      "Juego por equipos",
+      "Palabras prohibidas",
+      "Tiempo real"
+    ],
+    "notes": "",
+    "imageUrl": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/3840x0/filters:quality(75)/paris/263766999/variant/images/d82645f0-0552-40a3-91e1-f1a5f05a0ce1/263766999-0000-001.jpg",
+    "emoji": "🗣️",
+    "ownedExpansions": [],
+    "addedAt": 1765848082745
+  },
+  {
+    "id": "82a5b633-8b67-4b04-a111-116777f591af",
+    "name": "Dobble",
+    "description": "Dobble es un juego de observación y velocidad donde los jugadores buscan el símbolo idéntico entre dos cartas. Incluye 55 cartas, cada una con ocho símbolos. Es rápido, divertido y apto para toda la familia.",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playtime": "15 min",
+    "minAge": 6,
+    "mechanics": [
+      "Reconocimiento de Patrones",
+      "Velocidad",
+      "Juego Simultáneo",
+      "Percepción Visual"
+    ],
+    "notes": "Disney, Marvel, Tortugas ninja y Minions.",
+    "imageUrl": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/3/5/35583800067630_16.jpeg",
+    "emoji": "👁️",
+    "ownedExpansions": [],
+    "addedAt": 1765847974472
+  },
+  {
+    "id": "670fed8f-934e-44be-92ab-7a702490b270",
+    "name": "What do you meme? - Edición Familiar",
+    "description": "Versión familiar del popular juego 'What Do You Meme?' para crear memes divertidos combinando fotos y textos. Los jugadores compiten por crear el meme más gracioso para el juez. Ideal para toda la familia.",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "playtime": "30-90 min",
+    "minAge": 8,
+    "mechanics": [
+      "Gestión de Mano",
+      "Votación",
+      "Emparejamiento de Cartas",
+      "Colección de Sets"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.planetaloz.cl/17839-large_default/what-do-you-meme-edicion-familiar.jpg",
+    "emoji": "🤣",
+    "ownedExpansions": [],
+    "addedAt": 1765847872186
+  },
+  {
+    "id": "3fe38be0-ad0b-4d34-8ad9-80615310493d",
+    "name": "¡Toma 6!",
+    "description": "¡Toma 6! es un clásico juego de cartas donde los jugadores evitan recoger cartas con puntos negativos (cabezas de buey). Se juegan cartas simultáneamente en 4 filas; el sexto en una fila se lleva las 5 anteriores. Gana quien menos puntos tenga.",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "playtime": "45 min",
+    "minAge": 8,
+    "mechanics": [
+      "Gestión de mano",
+      "Selección de acción simultánea",
+      "Juego de cartas"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.drjuegos.cl/2600-large_default/toma-6.jpg",
+    "emoji": "🐂",
+    "ownedExpansions": [],
+    "addedAt": 1765847791659
+  },
+  {
+    "id": "c7ce511d-d3d9-42da-b4bf-d29182ae5403",
+    "name": "Just One",
+    "description": "Just One es un juego cooperativo de adivinanzas donde los jugadores dan una sola pista para ayudar a un compañero a descubrir una palabra secreta. Las pistas idénticas se anulan.",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "playtime": "20 min",
+    "minAge": 8,
+    "mechanics": [
+      "Juego Cooperativo",
+      "Dar Pistas",
+      "Adivinanza de Palabras",
+      "Eliminación de Pistas"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.entrejuegos.cl/14402-large_default/just-one.jpg",
+    "emoji": "💡",
+    "ownedExpansions": [],
+    "addedAt": 1765847624645
+  },
+  {
+    "id": "f7256fb4-b6fc-48a4-a149-f682a7141c5d",
+    "name": "Pictionary",
+    "description": "Pictionary es un clásico juego de mesa de dibujo y adivinanza donde equipos compiten contrarreloj para identificar palabras y frases a través de dibujos. Se avanza en el tablero adivinando correctamente las pistas.",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "playtime": "30-60 min",
+    "minAge": 8,
+    "mechanics": [
+      "Drawing",
+      "Team-Based Game",
+      "Timed Rounds",
+      "Roll / Spin and Move"
+    ],
+    "notes": "",
+    "imageUrl": "https://d3340tyzmtlo4u.cloudfront.net/users/864/images/detailed/8/Ruibal_Pictionary_Juego_de_Mesa.webp",
+    "emoji": "🎨",
+    "ownedExpansions": [],
+    "addedAt": 1765847533172
+  },
+  {
+    "id": "27317afd-80ae-47f5-ae81-9c7577f9f094",
+    "name": "Monopoly",
+    "description": "Monopoly es un juego de mesa de intercambio y compraventa de bienes raíces, donde los jugadores buscan construir un monopolio a través de la adquisición, desarrollo y alquiler de propiedades para llevar a sus oponentes a la bancarrota.",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playtime": "60-90 min",
+    "minAge": 8,
+    "mechanics": [
+      "Tirada y movimiento",
+      "Gestión de propiedades",
+      "Negociación",
+      "Subastas"
+    ],
+    "notes": "",
+    "imageUrl": "https://dojiw2m9tvv09.cloudfront.net/10102/product/monopolyclasico-18774.jpg",
+    "emoji": "🎲",
+    "ownedExpansions": [],
+    "addedAt": 1765847434913
+  },
+  {
+    "id": "170695a4-86d8-4d7c-8f05-3ef31399eafb",
+    "name": "Uno",
+    "description": "Un juego de cartas donde los jugadores emparejan colores o números para ser el primero en quedarse sin cartas, utilizando cartas de acción para dificultar a los oponentes. Requiere gritar 'UNO' con una carta restante.",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "playtime": "Aprox. 30 min",
+    "minAge": 7,
+    "mechanics": [
+      "Gestión de mano",
+      "Emparejamiento de cartas",
+      "Cartas de acción",
+      "Carrera (por puntos)"
+    ],
+    "notes": "",
+    "imageUrl": "https://ansaldo.cl/cdn/shop/files/6769_1.jpg?v=1753281570&width=1200",
+    "emoji": "🃏",
+    "ownedExpansions": [],
+    "addedAt": 1765847312375
+  },
+  {
+    "id": "76368b6e-533d-466d-a99b-e6c2c687952d",
+    "name": "Basta 2.0",
+    "description": "Basta 2.0 es un juego de mesa electrónico que moderniza el clásico Basta. Utiliza un tablero digital interactivo y dos modos de juego para desafiar la agilidad mental y la creatividad con palabras bajo presión de tiempo.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "15-20 min",
+    "minAge": 8,
+    "mechanics": [
+      "Juego de palabras",
+      "Tiempo real",
+      "Reconocimiento de patrones",
+      "Componentes electrónicos"
+    ],
+    "notes": "",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_960934-CBT84972390935_052025-O.webp",
+    "emoji": "🧠",
+    "ownedExpansions": [],
+    "addedAt": 1765847265018
+  },
+  {
+    "id": "92f99233-9836-46d6-9c68-4cf38ac285c0",
+    "name": "Monopoly - Falcon y Soldado del Invierno",
+    "description": "Edición especial de Monopoly ambientada en la serie de Marvel Studios 'The Falcon and the Winter Soldier'. Los jugadores compran propiedades como eventos y tecnología Wakandiana para obtener símbolos del Capitán América, cobrar rentas y llevar a la bancarrota a los oponentes.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "90-180 min",
+    "minAge": 14,
+    "mechanics": [
+      "Compra de Propiedades",
+      "Colección de Sets",
+      "Tirada de Dados",
+      "Eliminación de Jugadores"
+    ],
+    "notes": "",
+    "imageUrl": "https://media.falabella.com/falabellaCL/144285578_01/w=800,h=800,fit=pad",
+    "emoji": "🛡️",
+    "ownedExpansions": [],
+    "addedAt": 1765847212561
+  },
+  {
+    "id": "7b23bfde-bf45-4510-99db-d7feed9646a9",
+    "name": "Cluedo - Mentiroso",
+    "description": "Un giro al clásico Cluedo. Investiga para resolver el misterio del asesinato del Sr. Boddy, pero con la novedad de que los jugadores pueden mentir. Usa tarjetas de verdad/mentira y un botón para delatar a los mentirosos.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "40 min",
+    "minAge": 8,
+    "mechanics": [
+      "Deducción",
+      "Faroleo",
+      "Preguntas con Respuesta",
+      "Revelación de Información"
+    ],
+    "notes": "",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/617MmR357PL._AC_SL1024_.jpg",
+    "emoji": "🔎",
+    "ownedExpansions": [],
+    "addedAt": 1765847120320
+  },
+  {
+    "id": "596de92c-b7f1-4d6c-804c-f935939f91d9",
+    "name": "Monopoly - Electronic Banking",
+    "description": "Versión moderna del clásico juego Monopoly, donde el dinero físico es reemplazado por una unidad bancaria electrónica y tarjetas. Los jugadores compran propiedades y gestionan finanzas digitalmente para llevar a la bancarrota a sus oponentes.",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playtime": "30-60 min",
+    "minAge": 8,
+    "mechanics": [
+      "Banca Electrónica",
+      "Tirada de Dados",
+      "Negociación de Propiedades",
+      "Colección de Sets"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.hasbro.com/common/productimages/es_LAM/EB2C42C950569047F52D5E3CC0532D6B/322a3ee5c6e9b68b3716596a12290b8d98a57755.jpg",
+    "emoji": "🏦",
+    "ownedExpansions": [],
+    "addedAt": 1765847027326
+  },
+  {
+    "id": "6c3bb10f-bab2-4e5a-8406-74659cae8029",
+    "name": "Monopoly - Mario Kart",
+    "description": "Monopoly - Mario Kart es una versión de Monopoly Gamer donde los jugadores compiten en un tablero temático de Mario Kart. El objetivo es comprar propiedades (circuitos), recolectar monedas y usar objetos para ganar carreras y acumular la mayor cantidad de puntos. Cada personaje tiene habilidades únicas para potenciar el juego.",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playtime": "30-60 min",
+    "minAge": 8,
+    "mechanics": [
+      "Tirada y movimiento",
+      "Colección de sets",
+      "Poderes de jugador variables",
+      "Tirada de dados"
+    ],
+    "notes": "",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_768016-MLA99710942930_122025-F.webp",
+    "emoji": "🏎️",
+    "ownedExpansions": [],
+    "addedAt": 1765846988820
+  },
+  {
+    "id": "d9186c50-7389-4033-9990-2c78ee08d91b",
+    "name": "Monopoly - Señor de los anillos",
+    "description": "Edición especial del clásico Monopoly ambientada en la Tierra Media de El Señor de los Anillos. Los jugadores compran y venden propiedades icónicas, usando fichas personalizadas y cartas temáticas. Incluye la mecánica del Anillo de Poder.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "60-180 min",
+    "minAge": 8,
+    "mechanics": [
+      "Compra y venta de propiedades",
+      "Lanzamiento de dados",
+      "Colección de sets",
+      "Control del Anillo"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.hasbro.com/common/productimages/es_ES/BF3DA24561394261ACC9CEA9A1AE41D5/4d21460357c9ea4fb1d86061388013168cef40e0.jpg",
+    "emoji": "💍",
+    "ownedExpansions": [],
+    "addedAt": 1765846945897
+  },
+  {
+    "id": "b05b4958-4df4-4560-bc71-f71f058c9a23",
+    "name": "Chupilca",
+    "description": "Juego de cartas para adultos, ideal para fiestas. Propone desafíos variados y si no se cumplen, hay un castigo que usualmente implica beber. La versión base contiene 80 cartas.",
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "playtime": "15 min",
+    "minAge": 18,
+    "mechanics": [
+      "Card Play",
+      "Take That",
+      "Party Game",
+      "Drinking Game"
+    ],
+    "notes": "",
+    "imageUrl": "https://gatoarcano.cl/wp-content/uploads/2024/02/Artboard426.jpg",
+    "emoji": "🍻",
+    "ownedExpansions": [
+      {
+        "name": "Chupilca: Charadas",
+        "description": "Una versión del juego centrada en el desafío de las charadas."
+      }
+    ],
+    "addedAt": 1765846877095
+  },
+  {
+    "id": "732943a1-b7a8-4377-90c9-88979095f3d9",
+    "name": "La Palta Borracha",
+    "description": "La Palta Borracha es un party game que combina elementos de Chupilca, Nervioso y UNO. Los jugadores deben ser rápidos y tener reflejos ágiles. Incluye cartas de 'shot' que implican beber. El objetivo es quedarse sin cartas primero.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "20 minutos",
+    "minAge": 18,
+    "mechanics": [
+      "Reflexes",
+      "Drinking Game",
+      "Card Game",
+      "Pattern Recognition"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.elpatiogeek.cl/cdn/shop/files/610_18fad5f2-2921-4016-9eb0-a7324086788d_2048x.png?v=1697124736",
+    "emoji": "🥑",
+    "ownedExpansions": [],
+    "addedAt": 1765846848478
+  },
+  {
+    "id": "f2785dad-f130-418f-b5f5-ceccd4005067",
+    "name": "Cuentero",
+    "description": "Juego de fiesta donde los jugadores cuentan anécdotas personales sobre un tema, pero uno de ellos (el Cuentero) inventa una historia falsa. Los demás votan para desenmascarar al mentiroso, mezclando verdades increíbles y mentiras creíbles.",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "playtime": "30 min",
+    "minAge": 18,
+    "mechanics": [
+      "Storytelling",
+      "Bluffing",
+      "Voting",
+      "Party Game"
+    ],
+    "notes": "",
+    "imageUrl": "https://tost.cl/cdn/shop/files/PARTYGAMES_1.png?v=1738742359&width=1000",
+    "emoji": "🗣️",
+    "ownedExpansions": [],
+    "addedAt": 1765846810794
+  },
+  {
+    "id": "e20cb65b-ba41-495f-b96d-52ab552b829f",
+    "name": "Throw throw burrito",
+    "description": "Throw Throw Burrito es un juego de cartas de esquiva donde los jugadores coleccionan sets de cartas mientras se lanzan burritos de espuma. Combina la recolección de cartas con batallas de \"dodgeball\" con burritos.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "playtime": "15 min",
+    "minAge": 7,
+    "mechanics": [
+      "Card Drafting",
+      "Set Collection",
+      "Dexterity",
+      "Take That"
+    ],
+    "notes": "",
+    "imageUrl": "https://gatoarcano.cl/wp-content/uploads/2020/10/1.jpg",
+    "emoji": "🌯",
+    "ownedExpansions": [],
+    "addedAt": 1765846769041
+  },
+  {
+    "id": "06a9b473-fa77-4405-9354-e74ed92e1a7c",
+    "name": "Pasapalabra",
+    "description": "Juego de mesa inspirado en el programa de TV chileno Pasapalabra. Los jugadores compiten en pruebas de agilidad mental y conocimiento, acumulando tiempo para el desafío final: El Rosco, donde deben adivinar palabras.",
+    "minPlayers": 3,
+    "maxPlayers": null,
+    "playtime": "+60 minutos",
+    "minAge": 8,
+    "mechanics": [
+      "Adivinanza de palabras",
+      "Trivia",
+      "Gestión de tiempo",
+      "Minijuegos"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.abc.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1c7ba250/images/large/22003941.jpg?sw=1200&sh=1200&sm=fit",
+    "emoji": "📝",
+    "ownedExpansions": [],
+    "addedAt": 1765846676475
+  },
+  {
+    "id": "a47165e3-e7c3-49d9-be3a-b68134b39adb",
+    "name": "Cultura Chupistica",
+    "description": "Party game chileno de cultura general y carrete, inspirado en cartelería popular. Desafía tu conocimiento y rapidez mental con trivias y humor. Ideal para fiestas y reuniones, puede jugarse con o sin alcohol.",
+    "minPlayers": 2,
+    "maxPlayers": null,
+    "playtime": "45-60 min",
+    "minAge": 18,
+    "mechanics": [
+      "Trivia",
+      "Party Game",
+      "Respuesta Rápida",
+      "Toma un Sorbo"
+    ],
+    "notes": "",
+    "imageUrl": "https://tertulia.cl/wp-content/uploads/2022/07/CULCHU2050-2-1.jpg",
+    "emoji": "🍻",
+    "ownedExpansions": [],
+    "addedAt": 1765846600275
+  },
+  {
+    "id": "8457bda6-1685-4564-8efd-dd7a82f38294",
+    "name": "The Mind",
+    "description": "Un ingenioso juego de cartas cooperativo donde los jugadores deben vaciar sus manos jugando cartas en orden numérico ascendente sin ninguna forma de comunicación.",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playtime": "15-20 min",
+    "minAge": 8,
+    "mechanics": [
+      "Juego cooperativo",
+      "Gestión de mano",
+      "Comunicación limitada",
+      "Juego de cartas"
+    ],
+    "notes": "",
+    "imageUrl": "https://static.wixstatic.com/media/5295d1_1fdaef2900e14dfbadcf84b7659ed029~mv2.png/v1/fill/w_1301,h_1826,al_c/The_Mind3D-01.png",
+    "emoji": "🧠",
+    "ownedExpansions": [],
+    "addedAt": 1765846553433
+  },
+  {
+    "id": "7c5b6257-3057-4e83-a4d7-862cba69deb3",
+    "name": "La Tripulación",
+    "description": "La Tripulación es un juego cooperativo de bazas con comunicación limitada. Los jugadores colaboran para completar 50 misiones progresivamente difíciles en su búsqueda del noveno planeta.",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playtime": "15-20 min",
+    "minAge": 10,
+    "mechanics": [
+      "Juego Cooperativo",
+      "Bazas",
+      "Comunicación Limitada",
+      "Campaña/Misiones"
+    ],
+    "notes": "",
+    "imageUrl": "https://devirinvestments.s3.eu-west-1.amazonaws.com/img/catalog/product/8436589620605-1200-face3d-copy.jpg",
+    "emoji": "🚀",
+    "ownedExpansions": [],
+    "addedAt": 1765846515041
+  },
+  {
+    "id": "c6216564-ded5-4ce5-b675-7c6ff9994d85",
+    "name": "Quoridor PacMan",
+    "description": "Juego de mesa que fusiona Quoridor con Pac-Man. Incluye modo clásico y una variante asimétrica donde Pac-Man busca Power Pellets mientras los fantasmas intentan atraparlo. Componentes de madera de alta calidad.",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playtime": "15-20 min",
+    "minAge": 8,
+    "mechanics": [
+      "Movimiento en cuadrícula",
+      "Colocación de muros",
+      "Poderes de jugador asimétricos",
+      "Carrera"
+    ],
+    "notes": "",
+    "imageUrl": "https://i5.walmartimages.cl/asr/89094fc1-5ab8-4bd8-bf16-498b90754a07.b3f959f52c5efee33873c407f78f4c24.jpeg?null=&odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "emoji": "👾",
+    "ownedExpansions": [],
+    "addedAt": 1765846453550
+  },
+  {
+    "id": "171a3b41-32f5-4f92-a806-c91893cdf604",
+    "name": "Trivia Lista",
+    "description": "Trivia Lista es un juego de mesa electrónico de preguntas y respuestas donde los jugadores deben ordenar correctamente las respuestas en una torre interactiva. Es rápido (apenas 15 minutos) y dinámico, ideal para jugar individualmente o en equipos.",
+    "minPlayers": 2,
+    "maxPlayers": null,
+    "playtime": "15 min",
+    "minAge": 13,
+    "mechanics": [
+      "Preguntas y respuestas",
+      "Ordenamiento",
+      "Sistema electrónico"
+    ],
+    "notes": "",
+    "imageUrl": "https://hasbrostore.cl/26224-medium_default/juego-de-mesa-hasbro-gaming-drop-trivial.jpg",
+    "emoji": "💡",
+    "ownedExpansions": [],
+    "addedAt": 1765846307247
+  },
+  {
+    "id": "a2dc0469-7a63-4ed2-94a5-8f7109593ffa",
+    "name": "PicTato",
+    "description": "Pictionary Pic-Tato es una versión del clásico juego de dibujar y adivinar con un giro de \"patata caliente\", donde los jugadores dibujan y pasan un Pic-Tato musical, intentando no quedarse con él cuando la música pare.",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "playtime": "2 min app.",
+    "minAge": 8,
+    "mechanics": [
+      "Dibujo",
+      "Adivinanzas",
+      "Patata Caliente",
+      "Rondas con Tiempo"
+    ],
+    "notes": "",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_840666-MLA99443442848_112025-F.webp",
+    "emoji": "🥔",
+    "ownedExpansions": [],
+    "addedAt": 1765844697261
+  },
+  {
+    "id": "9970c9df-0888-404c-b85f-752988364b4a",
+    "name": "Código secreto",
+    "description": "Código Secreto es un juego de palabras por equipos donde spymasters dan pistas de una palabra para que sus agentes adivinen los nombres clave de su equipo en una cuadrícula 5x5, evitando al equipo rival y al asesino. Intriga y deducción para la victoria.",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "playtime": "15-30 min",
+    "minAge": 10,
+    "mechanics": [
+      "Comunicación por equipos",
+      "Deducción",
+      "Juego de palabras",
+      "Reconocimiento de patrones"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.dracarysgames.cl/wp-content/uploads/2022/09/codigo.jpg",
+    "emoji": "🕵️‍♂️",
+    "ownedExpansions": [],
+    "addedAt": 1765844659097
+  },
+  {
+    "id": "04e446d8-dc4f-4fe1-931c-4b10c21e602e",
+    "name": "Hitster",
+    "description": "Juego de mesa party musical donde los jugadores ordenan canciones cronológicamente usando una app. Escucha éxitos de más de 100 años y demuestra tu conocimiento musical para ser el Hitster.",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "playtime": "30 min",
+    "minAge": 16,
+    "mechanics": [
+      "Ordenación cronológica",
+      "Uso de aplicación móvil",
+      "Party Game",
+      "Trivia musical"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.entrejuegos.cl/14591-large_default/hitster.jpg",
+    "emoji": "🎵",
+    "ownedExpansions": [
+      {
+        "name": "Hitster Bingo",
+        "description": "Una nueva edición con formato Musical Bingo, incluyendo éxitos que definieron generaciones."
+      }
+    ],
+    "addedAt": 1765844618409
+  },
+  {
+    "id": "794cd53c-c3bf-493f-82f6-642fc4ea6092",
+    "name": "Hex Marvel",
+    "description": "Juego de estrategia y azar donde equipos de Superhéroes Marvel buscan reunir las Gemas del Infinito. Los jugadores posicionan fichas en un tablero hexagonal y usan dados para eliminar obstáculos y formar líneas de poder.",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playtime": "30-45 min",
+    "minAge": null,
+    "mechanics": [
+      "Estrategia",
+      "Tirada de Dados",
+      "Colocación de Fichas",
+      "Construcción de Patrones"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.abc.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1c6a510f/images/large/25143507.jpg?sw=1200&sh=1200&sm=fit",
+    "emoji": "💥",
+    "ownedExpansions": [],
+    "addedAt": 1765844343093
+  },
+  {
+    "id": "b0d4f2af-8182-4c86-81f1-860c59320ace",
+    "name": "Dixit",
+    "description": "Dixit es un juego de mesa de narración y adivinanzas con cartas de ilustraciones evocadoras. Un jugador da una pista sobre una de sus cartas; los demás eligen una carta de su mano que se ajuste a la pista para que todos intenten adivinar la original. Fomenta la creatividad y la imaginación.",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "playtime": "30 min",
+    "minAge": 8,
+    "mechanics": [
+      "Narración",
+      "Adivinanzas",
+      "Votación",
+      "Selección simultánea"
+    ],
+    "notes": "",
+    "imageUrl": "https://www.flexogames.cl/cdn/shop/files/bINS7KyXtEZP0oAsNBsd5fA3weekSgRedDbB2ln4_540x.jpg?v=1740204552",
+    "emoji": "🎲",
+    "ownedExpansions": [],
+    "addedAt": 1765844281701
+  },
+  {
+    "id": "1ec58084-54b3-435a-84cd-e9ee2235a8fe",
+    "name": "Cluedo",
+    "description": "Cluedo (o Clue en Norteamérica) es un juego de mesa de misterio y asesinato donde los jugadores deducen quién mató a la víctima, dónde y con qué arma.",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "playtime": "10-60 min",
+    "minAge": 8,
+    "mechanics": [
+      "Deducción",
+      "Lanzamiento de dados",
+      "Pasajes secretos",
+      "Eliminación de jugadores"
+    ],
+    "notes": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61BcBQ3KLoL.jpg",
+    "emoji": "🔍",
+    "ownedExpansions": [],
+    "addedAt": 1765844267261
+  },
+  {
+    "id": "0f6019ec-d08f-4b7f-9a5f-0698a6280f12",
+    "name": "Catan",
+    "description": "Catan es un juego de mesa multijugador donde los jugadores son colonos que construyen y desarrollan propiedades, comerciando y adquiriendo recursos para ganar puntos de victoria. El primero en alcanzar 10 puntos de victoria gana.",
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "playtime": "60-90 min",
+    "minAge": 10,
+    "mechanics": [
+      "Negociación",
+      "Construcción de Rutas y Edificios",
+      "Tirada de Dados",
+      "Gestión de Recursos"
+    ],
+    "notes": "",
+    "imageUrl": "https://collectorcenter.cl/cdn/shop/files/8436017220100-1200-face3d-copy.jpg?v=1745339652",
+    "emoji": "🏘️",
+    "ownedExpansions": [
+      {
+        "name": "Catan: Exploradores y Piratas",
+        "description": "Se centra en la exploración, misiones, barcos en movimiento, nuevos recursos y piratas."
+      }
+    ],
+    "addedAt": 1765843619933
+  }
+]
