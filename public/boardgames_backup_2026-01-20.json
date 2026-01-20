@@ -1,5 +1,64 @@
 [
   {
+    "id": "594abe32-36fb-465b-a236-9476605ce51f",
+    "name": "Wavelength",
+    "description": "Un juego social de \"telepatía\". Un jugador (el Psíquico) conoce la ubicación de un objetivo en un dial oculto dentro de un espectro (por ejemplo, de \"Frío\" a \"Caliente\"). Da una pista conceptual y su equipo debe mover la aguja a donde creen que se encuentra el objetivo en ese espectro.",
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "playtime": "30-45 min",
+    "minAge": 14,
+    "mechanics": [
+      "Estimación",
+      "Comunicación",
+      "Juego por equipos",
+      "Espectros conceptuales"
+    ],
+    "notes": "",
+    "imageUrl": "https://donmeeple.com/wp-content/uploads/2019/11/wavelength-portada-don-meeple.jpg",
+    "emoji": "🎲",
+    "ownedExpansions": [],
+    "addedAt": 1768950187944
+  },
+  {
+    "id": "2b063299-cbd9-41aa-8ebc-b1360af7b37d",
+    "name": "Hues and Cues",
+    "description": "Un vibrante juego de comunicación visual donde el objetivo es adivinar un color específico. El \"dador de pistas\" debe usar solo una o dos palabras para guiar a los demás hacia uno de los 480 tonos en el tablero. La puntuación depende de qué tan cerca quede tu marcador del color objetivo.",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "playtime": "30 min",
+    "minAge": 8,
+    "mechanics": [
+      "Pistas de palabras limitadas",
+      "Emparejamiento de patrones",
+      "Deducción"
+    ],
+    "notes": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81BNwwZsmVL._AC_SL1500_.jpg",
+    "emoji": "🎲",
+    "ownedExpansions": [],
+    "addedAt": 1768950051814
+  },
+  {
+    "id": "c8994d63-d597-4e21-a2ac-e1a690128b1b",
+    "name": "Yo soy tu peli",
+    "description": "Un dinámico juego de trivia y retos para cinéfilos (y no tan cinéfilos). Divididos en equipos, los jugadores deben superar pruebas de mímica, tararear bandas sonoras, adivinar películas con solo 5 palabras o identificar citas famosas para avanzar en el tablero.",
+    "minPlayers": 4,
+    "maxPlayers": 19,
+    "playtime": "30 min",
+    "minAge": 12,
+    "mechanics": [
+      "Trivia",
+      "Mímica",
+      "Tarareo",
+      "Comunicación limitada"
+    ],
+    "notes": "",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbNFA2t1RB6waS5t-69aGZmuvm_J0MJ4YDQ&s",
+    "emoji": "🎲",
+    "ownedExpansions": [],
+    "addedAt": 1768949947299
+  },
+  {
     "id": "ae83f527-4b31-405d-a21f-c39c0e9c996e",
     "name": "Trivial Pursuit - Edición Familiar",
     "description": "Juego de preguntas y respuestas diseñado para toda la familia, con tarjetas de preguntas separadas para niños y adultos, permitiendo un desafío equilibrado y divertido. Los jugadores compiten por coleccionar quesitos de diferentes categorías.",
