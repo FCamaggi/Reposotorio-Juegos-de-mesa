@@ -46,12 +46,7 @@
     "maxPlayers": 19,
     "playtime": "30 min",
     "minAge": 12,
-    "mechanics": [
-      "Trivia",
-      "Mímica",
-      "Tarareo",
-      "Comunicación limitada"
-    ],
+    "mechanics": ["Trivia", "Mímica", "Tarareo", "Comunicación limitada"],
     "notes": "",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbNFA2t1RB6waS5t-69aGZmuvm_J0MJ4YDQ&s",
     "emoji": "🎲",
@@ -185,12 +180,7 @@
     "maxPlayers": 16,
     "playtime": "30-90 min",
     "minAge": 16,
-    "mechanics": [
-      "Dibujo",
-      "Escultura",
-      "Mímica",
-      "Conocimientos generales"
-    ],
+    "mechanics": ["Dibujo", "Escultura", "Mímica", "Conocimientos generales"],
     "notes": "",
     "imageUrl": "https://www.hasbro.com/common/productimages/es_CO/824896ab19b9f369106df80ad3aa1be8/D6580C7050569047F557A0F00CBC0AD9.png",
     "emoji": "🧠",
@@ -283,12 +273,7 @@
     "maxPlayers": 8,
     "playtime": "5-15 min",
     "minAge": 4,
-    "mechanics": [
-      "Observación",
-      "Rapidez",
-      "Agilidad visual",
-      "Concentración"
-    ],
+    "mechanics": ["Observación", "Rapidez", "Agilidad visual", "Concentración"],
     "notes": "",
     "imageUrl": "https://dojiw2m9tvv09.cloudfront.net/68793/product/ojo-de-lince-travel-215264774.jpg",
     "emoji": "🔎",
@@ -582,12 +567,7 @@
     "maxPlayers": 12,
     "playtime": "15 min",
     "minAge": 18,
-    "mechanics": [
-      "Card Play",
-      "Take That",
-      "Party Game",
-      "Drinking Game"
-    ],
+    "mechanics": ["Card Play", "Take That", "Party Game", "Drinking Game"],
     "notes": "",
     "imageUrl": "https://gatoarcano.cl/wp-content/uploads/2024/02/Artboard426.jpg",
     "emoji": "🍻",
@@ -627,12 +607,7 @@
     "maxPlayers": 10,
     "playtime": "30 min",
     "minAge": 18,
-    "mechanics": [
-      "Storytelling",
-      "Bluffing",
-      "Voting",
-      "Party Game"
-    ],
+    "mechanics": ["Storytelling", "Bluffing", "Voting", "Party Game"],
     "notes": "",
     "imageUrl": "https://tost.cl/cdn/shop/files/PARTYGAMES_1.png?v=1738742359&width=1000",
     "emoji": "🗣️",
@@ -647,12 +622,7 @@
     "maxPlayers": 6,
     "playtime": "15 min",
     "minAge": 7,
-    "mechanics": [
-      "Card Drafting",
-      "Set Collection",
-      "Dexterity",
-      "Take That"
-    ],
+    "mechanics": ["Card Drafting", "Set Collection", "Dexterity", "Take That"],
     "notes": "",
     "imageUrl": "https://gatoarcano.cl/wp-content/uploads/2020/10/1.jpg",
     "emoji": "🌯",
@@ -687,12 +657,7 @@
     "maxPlayers": null,
     "playtime": "45-60 min",
     "minAge": 18,
-    "mechanics": [
-      "Trivia",
-      "Party Game",
-      "Respuesta Rápida",
-      "Toma un Sorbo"
-    ],
+    "mechanics": ["Trivia", "Party Game", "Respuesta Rápida", "Toma un Sorbo"],
     "notes": "",
     "imageUrl": "https://tertulia.cl/wp-content/uploads/2022/07/CULCHU2050-2-1.jpg",
     "emoji": "🍻",
